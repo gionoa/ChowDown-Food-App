@@ -158,8 +158,8 @@
 		BF439FCD2225BBB000BCDF9A /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				BF8046FE225149A2002DE18F /* LoginViewController.swift */,
 				BF1D4F29221F20A9000B95D5 /* TabBarController.swift */,
+				BF8046FE225149A2002DE18F /* LoginViewController.swift */,
 				BF80470022517619002DE18F /* Tabs */,
 				BF509C51223C78DA0064AF82 /* MenuItemDetailViewController.swift */,
 				BF0A38DE2243FCF400651A6E /* PageViewControllers */,
