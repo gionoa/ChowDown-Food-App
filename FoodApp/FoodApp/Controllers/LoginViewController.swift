@@ -87,7 +87,6 @@ class LoginViewController: UIViewController {
     // MARK: Setup
     func setupUI() {
         view.backgroundColor = .customGray
-       // addGradientLayer()
         view.addSubview(stackView)
 
         let safeArea = view.safeAreaLayoutGuide
